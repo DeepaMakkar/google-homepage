@@ -83,6 +83,7 @@ input[type="search"]{
     height: 35px;
     border: none;
     font-size:16px;
+    -webkit-appearance: textfield;
 }
 
 input[type="search"]:focus{
